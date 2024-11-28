@@ -1,0 +1,19 @@
+.card{
+    width: 300px;
+    height: 350px;
+    box-shadow: 15px 15px 20px gray;
+
+}
+
+.card-img{
+    height: 60%;
+}
+
+/* .single-meal{
+
+} */
+
+.single-img{
+    width: 100%;
+    height: 200px;
+}
